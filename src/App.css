@@ -1,0 +1,34 @@
+img{
+  width: 200px;
+}
+
+body{
+  margin: 30px;
+  background-color: rgb(255, 255, 255);
+}
+
+.cabecalho{
+  background-color: rgb(189, 189, 189);
+  display:flex;
+}
+
+.listadeoda{
+  background-color: rgb(255, 132, 60);
+  padding: 30px;
+}
+
+.rodape{
+  background-color: rgb(88, 113, 255);
+  padding: 30px;
+}
+
+h1, p{
+  text-align: center;
+  align-self: center;
+}
+
+input{
+  width: 99.5%;
+  height: 25px;
+  text-align: center;
+}
